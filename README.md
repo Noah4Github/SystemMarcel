@@ -12,3 +12,6 @@
 - 📫 How to reach me: ...
 - Meine Website: [www.marcel2002.de](https://www.marcel2002.de/index.html "My Webpage!")
 -->
+### SocialMedia!
+# This area is cooming soon!
+<!-- - [My Discord:](https://discord.systemmarcel.ga "Join My Discord!") -->
