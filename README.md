@@ -1,5 +1,5 @@
-### Heyho ^^ 👋
-## Ich heiße SystemMarcel aka Marcel ;)
+# Heyho ^^ 👋
+### Ich heiße SystemMarcel aka Marcel ;)
 <!--
 **SystemMarcel/SystemMarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -12,6 +12,6 @@
 - 📫 How to reach me: ...
 - Meine Website: [www.marcel2002.de](https://www.marcel2002.de/index.html "My Webpage!")
 -->
-### SocialMedia!
-# This area is cooming soon!
+# SocialMedia!
+**This area is cooming soon!**
 <!-- - [My Discord:](https://discord.systemmarcel.ga "Join My Discord!") -->
